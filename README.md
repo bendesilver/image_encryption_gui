@@ -64,5 +64,5 @@ Always keep a backup of your original images before encryption
 This simple tool demonstrates basic image encryption concepts using pixel manipulation techniques that are reversible for both encryption and decryption.
 
 ## 💻Cross-platform:
-Works on both Windows, Linux & Mac
+Works on Windows, Linux & Mac
 
